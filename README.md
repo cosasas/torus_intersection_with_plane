@@ -1,4 +1,4 @@
 
-![](/Images/GUI.png)
+![](/Images/GUI.jpg)
 
-![](/Images/GUI_2.png)
+![](/Images/GUI_2.jpg)
