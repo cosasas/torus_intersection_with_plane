@@ -1,3 +1,4 @@
+Presentation of torus-plane intersection
 
 ![](/Images/GUI.jpg)
 
