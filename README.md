@@ -1,4 +1,4 @@
 
-![](/Images/GUI.jpg)
+![](/Images/GUI.jpg  =1024x835)
 
-![](/Images/GUI_2.jpg)
+![](/Images/GUI_2.jpg  =1024x835)
